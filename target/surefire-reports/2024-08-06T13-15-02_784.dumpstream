@@ -1,0 +1,5 @@
+# Created at 2024-08-06T13:15:03.104
+Boot Manifest-JAR contains absolute paths in classpath 'D:\avinash_pingle_course\java_program\stauto\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
